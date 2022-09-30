@@ -5,9 +5,7 @@ function App() {
   const options = {
     method: 'GET',
     headers: {
-      accept: 'application/json',
-      'X-RapidAPI-Key': '52db18f06fmsh5a6ae844bcfa7f2p1bb427jsn58ee8e4234ef',
-      'X-RapidAPI-Host': 'matchilling-chuck-norris-jokes-v1.p.rapidapi.com'
+      accept: 'XXXXXXXXXXXXXXXXXXXXX'
     }
   };
 
